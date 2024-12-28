@@ -1,0 +1,87 @@
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Tasks
+4. Delete Task
+5. Exit
+
+Enter your choice: 1
+No tasks
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Tasks
+4. Delete Task
+5. Exit
+
+Enter your choice: 2
+Enter the task description: study
+Task added successfully!
+1. study - Status: pending
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Tasks
+4. Delete Task
+5. Exit
+
+Enter your choice: 2
+Enter the task description: sleep
+Task added successfully!
+1. study - Status: pending
+2. sleep - Status: pending
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Tasks
+4. Delete Task
+5. Exit
+
+Enter your choice: 3
+1. study - Status: pending
+2. sleep - Status: pending
+Enter the task number to mark as completed: 1
+Task marked as completed.
+1. study - Status: completed
+2. sleep - Status: pending
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Tasks
+4. Delete Task
+5. Exit
+
+Enter your choice: 1
+1. study - Status: completed
+2. sleep - Status: pending
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Tasks
+4. Delete Task
+5. Exit
+
+Enter your choice: 4
+1. study - Status: completed
+2. sleep - Status: pending
+Enter the task number to delete: 2
+Task deleted successfully.
+1. study - Status: completed
+
+--- To-Do List Menu ---
+1. study - Status: completed
+
+--- To-Do List Menu ---
+1. View Tasks
+2. Add Task
+3. Mark Tasks
+4. Delete Task
+5. Exit
+
+Enter your choice: 5
+Exiting To-Do List App. Goodbye!
